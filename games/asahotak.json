@@ -1,0 +1,1127 @@
+[ 
+    { 
+        "index": 0, 
+        "soal": "An animal like a lizard that can change its skin color?", 
+        "jawaban": "Chameleon" 
+    }, 
+    { 
+        "index": 1, 
+        "soal": "An animal like a lizard that can change the color of his skin?", 
+        "jawaban": "Chameleon" 
+    }, 
+    { 
+        "index": 2, 
+        "soal": "A letter of instruction to Suharto to take over Indonesian security on March 11, 1966?", 
+        "jawaban": "Supersemar " 
+    }, 
+    { 
+        "index": 3,
+        "soal": "The longest river in America?", 
+        "jawaban": "Amazon" 
+    },
+    { 
+        "index": 4, 
+        "soal": "Women recorded in history as a tailor of the Indonesian Heritage Flag?", 
+        "jawaban": "Fatmawati" 
+    }, 
+    { 
+        "index": 5, 
+        "soal": "Long-distance running competition 42.195 km long?", 
+        "jawaban": "Marathon" 
+    }, 
+    { 
+        "index": 6, 
+        "soal": "The line that divides the Earth into two halves of the northern hemisphere and southern hemisphere?", 
+        "jawaban": "Equator" 
+    } , 
+    { 
+        "index": 7, 
+        "soal": "This city which was founded in 682 is called the oldest city in Indonesia?", 
+        "jawaban": "Palembang"
+    }, 
+    { 
+        "index": 8, 
+        "problem": "A name for the gravitational force that occurs in the universe including Earth?", 
+        "jawaban": "Gravity" 
+    }, 
+    { 
+        "index": 9, 
+        "problem": "The name of a movie about a robot that can transform into a vehicle?", 
+        "jawabans": "Transformers" 
+    }, 
+    { 
+        "index": 10, 
+        "soal": "Fighters in Ancient Rome who fought for public entertainment?", 
+        "jawaban": "Gladiators" 
+    },
+    { 
+        "index": 11,
+        "soal": "The name of the luxury passenger ship that sank during its maiden voyage in 1912?",
+        "jawaban": "Titanic" 
+    }, 
+    { 
+        "index": 12, 
+        "soal": "The Italian football club nicknamed the Old Lady?", 
+        "jawaban": "Juventus" 
+    }, 
+    { 
+        "index": 13, 
+        "soal": "Mechanism of the state government system based on the will of the people?", 
+        "jawaban": "Democracy" 
+    }, 
+    { 
+        "index": 14, 
+        "soal": "The name of the traditional Balinese dance drama art?", 
+        " jawaban": "Kecak" 
+    },
+    { 
+        "index": 15, 
+        "soal": "The name of the currency used in Russia?",
+        "jawaban": "Ruble" 
+    }, 
+    { 
+        "index": 16, 
+        "soal": "The natural sciences observing celestial bodies and phenomena outside Earth's atmosphere?", 
+        "jawaban": "Astronomy" 
+    }, 
+    { 
+        "index": 17, 
+        "soal": "The French Emperor who ruled the Continent of Europe in 1803-1815?", 
+        "jawaban": "Napoleon" 
+    }, 
+    { 
+        "index": 18, 
+        "soal": "World famous artist from Spain with artistic style named cubism?", 
+        "jawaban": "Picasso" 
+    },
+    { 
+        "index": 19,
+        "soal": "Name of the commander-in-chief of the Allied Forces in World War II?", 
+        "jawaban": "Eisenhower" 
+    }, 
+    { 
+        "index": 20, 
+        "soal": "Fiction weapon in Star Wars universe, used by Jedi and Sith ?", 
+        "jawaban": "Lightsaber" 
+    }, 
+    { 
+        "index": 21, 
+        "soal": "Name of a peninsula in Europe where there are countries Norway and Sweden?", 
+        "jawaban": "Scandinavia" 
+    }, 
+    { 
+        "index" : 22, 
+        "soal": "A football stadium in London which is also the home base for Arsenal FC?", 
+        "jawaban": "Emirates" 
+    }, 
+    {
+        "index": 23,
+        "soal": "World famous female singer, was in the group Destiny's Child?", 
+        "jawaban": "Beyonce" 
+    }, 
+    { 
+        "index": 24, 
+        "soal": "Term for a belief that God is one or only ?", 
+        "jawabans": "Monotheism" 
+    }, 
+    { 
+        "index": 25, 
+        "soal": "The name of the kingdom where the king is currently the deputy governor of DI Yogyakarta?", 
+        "jawaban": "Pakualaman" 
+    }, 
+    { 
+        "index ": 26, 
+        "soal": "Called one of history's greatest mathematicians, born in 287 BC?", 
+        "jawaban": "Archimedes" 
+    }, 
+    {
+        "index": 27, 
+        "soal": "The highest mountain range in Indonesia, located on the island of Papua?", 
+        "jawaban": "Jayawijaya" 
+    }, 
+    { 
+        "index": 28, 
+        "soal": "A fictional superhero group consisting of from Iron Man, Captain America, Hulk, Thor?", 
+        "jawaban": "Avengers" 
+    }, 
+    { 
+        "index": 29, 
+        "soal": "The name of a vast territory in Russia, covering almost all of North Asia?", 
+        " jawaban": "Siberia" 
+    }, 
+    { 
+        "index": 30, 
+        "soal": "An object or medium that conducts electric current easily?", 
+        "jawaban": "Conductor"
+    }, 
+    { 
+        "index": 31, 
+        "soal": "Name of language spoken in Iran, Tajikistan, Afghanistan and Uzbekistan?", 
+        "jawaban": "Farsi" 
+    }, 
+    { 
+        "index": 32, 
+        "soal": "Areas where there was the first agricultural practice around 8000 BC?", 
+        "jawaban": "Mesopotamia" 
+    }, 
+    { 
+        "index": 33, 
+        "soal": "An ideology based on the principle of leadership with absolute authority?", 
+        "jawaban" : "Fascism" 
+    }, 
+    { 
+        "index": 34, 
+        "soal": "The name of the geological period from 252 to 66 million years ago, also called the Age of Reptiles?",
+        "jawaban": "Mesozoic" 
+    }, 
+    { 
+        "index": 35, 
+        "soal": "Name known in legend jawabanas the architect who designed Borobudur Temple?", 
+        "jawaban": "Gunadharma" 
+    }, 
+    { 
+        "index": 36 , 
+        "soal": "Traditional Chinese dance that uses costumes resembling a lion", 
+        "jawaban": "Lion dance" 
+    }, 
+    { 
+        "index": 37, 
+        "soal": "A term that means the movement of people from rural areas to cities?", 
+        " jawaban": "Urbanization"
+    }, 
+    { 
+        "index": 38,
+        "soal": "A famous band from the 1970s from Bandung, three brothers in personnel?", 
+        "jawaban": "Bimbo" 
+    }, 
+    { 
+        "index": 39, 
+        "soal": "The name of the 2009 Indonesian action film starring Iko Uwais?", 
+        "jawaban": "Merantau" 
+    }, 
+    { 
+        "index": 40, 
+        "soal": "Known as the “Indonesian keroncong maestro”, the creator of the Bengawan Solo song?", 
+        "jawaban": "Gesang" 
+    }, 
+    { 
+        "index": 41, 
+        "soal": "The temperature scale where the freezing point of water is at 0 degrees and the boiling point is at 100 degrees?", 
+        "jawaban": "Celsius" 
+    },
+    { 
+        "index": 42, 
+        "soal": "A Javanese mythical ghost, in the form of a human-like ape, big and hairy?", 
+        "jawaban": "Genderuwo" 
+    }, 
+    { 
+        "index": 43, 
+        "soal": " A district in Los Angeles known for its worldwide film industry?", 
+        "jawabans": "Hollywood" 
+    }, 
+    { 
+        "index": 44, 
+        "soal": "The branch of biology that studies the inheritance of traits in organisms and sub-organisms?", 
+        " jawaban": "Genetics" 
+    },
+    { 
+        "index": 45,
+        "soal": "Ancient human site in Central Java, also a UNESCO World Heritage Site?", 
+        "jawaban": "Sangiran" 
+    }, 
+    { 
+        "index": 46, 
+        "soal": "A boulder smaller than a planet , orbits the Sun?", 
+        "jawabans": "Asteroids" 
+    }, 
+    { 
+        "index": 47, 
+        "soal": "Terms for grass-eating animals or plants?", 
+        "jawabans": "Herbivores" 
+    }, 
+    { 
+        "index" : 48, 
+        "soal": "A term meaning the systematic massacre of a tribe or group?", 
+        "jawabans": "Genocide" 
+    }, 
+    {
+        "index": 49, 
+        "soal": "Name of a febrile disease transmitted by female Anopheles mosquitoes?", 
+        "jawaban": "Malaria" 
+    }, 
+    { 
+        "index": 50, 
+        "soal": "Name of a Sundanese cultural fictional character who funny, innocent, but intelligent at the same time?", 
+        "jawaban": "Kabayan" 
+    }, 
+    { 
+        "index": 51, 
+        "soal": "A dormitory where santri study is guided by Kiai?", 
+        "jawaban": " Islamic Boarding School" 
+    }, 
+    { 
+        "index": 52, 
+        "soal":"Japanese video game company, creator of Mario Bros and Pokemon?", 
+        "jawaban": "Nintendo" 
+    },
+    { 
+        "index": 53, 
+        "soal": "An official religion in Indonesia based on the teachings of Confucius?", 
+        "jawaban": "Khong hu cu" 
+    }, 
+    { 
+        "index": 54, 
+        "soal": "Name of encyclopedia free online to be written and edited by anyone?", 
+        "jawabans": "Wikipedia" 
+    }, 
+    { 
+        "index": 55, 
+        "soal": "Construct a quadrilateral, a pair of parallel sides but not the same length?", 
+        "jawabans ": "Trapezoid" 
+    }, 
+    { 
+        "index": 56,
+        "soal": "Diseases in which the blood sugar-regulating hormone from the body is insufficient?",
+        "jawaban": "Diabetes" 
+    }, 
+    { 
+        "index": 57, 
+        "soal": "The world's smallest internationally recognized independent country?", 
+        "jawaban": "The Vatican" 
+    }, 
+    { 
+        "index": 58, 
+        " soal": "Ancient Greek empire ruled by Alexander the Great?", 
+        "jawaban": "Macedonia" 
+    }, 
+    { 
+        "index": 59, 
+        "soal": "The country with the second most Muslim population in the world?", 
+        "jawaban": "Pakistan"
+    }, 
+    { 
+        "index": 60,
+        "soal": "Symptoms of decreased brain function, generally occurs in old age?", 
+        "jawaban": "Dementia"
+    }, 
+    { 
+        "index": 61, 
+        "soal": "Fossil fuel, used in Steam Power Plants?", 
+        "jawaban": "Coal" 
+    }, 
+    { 
+        "index": 62, 
+        "soal": "Name famous temple in Bali built on the edge of a rock?", 
+        "jawaban": "Uluwatu" 
+    }, 
+    { 
+        "index": 63, 
+        "soal": "A title that Sultan Agung's son received from Mataram?", 
+        "jawaban": "Amangkurat" 
+    }, 
+    { 
+        "index": 64,
+        "soal": "A person in charge of caring for infants or children in a family?", 
+        "jawaban": "Beautiful stewardess"
+    }, 
+    { 
+        "index": 65, 
+        "soal": "Area of ​​Japan where the nuclear leak occurred in 2011?", 
+        "jawaban": "Fukushima" 
+    }, 
+    { 
+        "index": 66, 
+        "soal": "Financial protection for mental health, property, etc.?", 
+        "jawaban": "Insurance" 
+    }, 
+    { 
+        "index": 67, 
+        "soal": "A horse logo company from Italy that manufactures supercars and racing cars?", 
+        "jawaban": "Ferrari" 
+    }, 
+    {
+        "index": 68, 
+        "soal": "A tribe from south sulawesi who is famous as an accomplished sailor?", 
+        "jawaban": "Bugis" 
+    },
+    { 
+        "index": 69, 
+        "soal": "The vampire who is the main character of Bram Stoker's fiction?", 
+        "jawaban": "Dracula" 
+    }, 
+    { 
+        "index": 70, 
+        "soal": "This planet is the largest planet in the Solar System?", 
+        "jawaban": "Jupiter" 
+    }, 
+    { 
+        "index": 71, 
+        "soal": "Plant used for making paper in Ancient Egypt?", 
+        "jawaban": "Papyrus" 
+    }, 
+    { 
+        "index": 72, 
+        "soal": "Explosives in the form of a powder mixture of sulfur, charcoal and potassium nitrate?", 
+        "jawaban": "gunpowder" 
+    },
+    {
+        "index" : 73,
+        "soal" : "Alternative rock band from London which have vocalist named Chris Martin?", 
+        "jawaban": "Coldplay" 
+    }, 
+    {
+        "index": 77, 
+        "soal": "A fruit that when cut has a star-shaped cross section?", 
+        "jawaban": "Starfruit" 
+    }, 
+    { 
+        "index": 78, 
+        "soal": "A musical ensemble that usually features metallophones, xylophone, drums, and gongs?", 
+        "jawabans": "Gamelan" 
+    }, 
+    { 
+        "index": 79, 
+        "soal": "The name of a city that has been fought over by Islam, Christianity, Judaism for centuries?", 
+        "jawaban": "Jerusalem" 
+    }, 
+    {
+        "index": 80, 
+        "soal": "The official language of Bangladesh, spoken by about 200 million people?", 
+        "jawaban": "Bengali" 
+    },
+    { 
+        "index": 81, 
+        "soal": "Ethanol-based intoxicants?", 
+        "jawaban": "Alcohol" 
+    }, 
+    { 
+        "index": 82, 
+        "soal": "Europe's only active volcano Which land is in Italy?", 
+        "jawaban": "Vesuvius" 
+    }, 
+    { 
+        "index": 83, 
+        "soal": "Fiction character with very long hair, the main character of the animated film Tangled?", 
+        "jawaban": "Rapunzel" 
+    } , 
+    { 
+        "index": 84, 
+        "soal":"A natural disaster in the form of large waves from the sea?", 
+        "jawaban": "Tsunami" 
+    }, 
+    {
+        "index": 85, 
+        "soal": "The name of the ancient Turkish city called Constantinople?", 
+        "jawaban": "Istanbul" 
+    }, 
+    { 
+        "index": 86, 
+        "soal": "An extinct human subspecies of the earth about 30,000 years ago?", 
+        "jawaban": "Neanderthals" 
+    }, 
+    { 
+        "index": 87, 
+        "soal": "The name of the ritual suicide of the Samurai in Japan by tearing the stomach?", 
+        "jawaban": "Seppuku" 
+    }, 
+    { 
+        "index": 88, 
+        "soal": "What kind of cheese from Italy is often found in pizza dishes?", 
+        "jawabans": "Mozzarella"
+    }, 
+    { 
+        "index": 89, 
+        "soal": "Title for the wife of a male monarch (king, sultan, or emperor)?", 
+        "jawaban": "Empress" 
+    }, 
+    { 
+        "index": 90, 
+        "soal ": "The name of the tribe that has long inhabited the Earth's north pole?", 
+        "jawaban": "Eskimos" 
+    }, 
+    { 
+        "index": 91, 
+        "soal": "The second most abundant element after oxygen in the human body?", 
+        " jawaban": "Carbon" 
+    }, 
+    { 
+        "index": 92,
+        "soal": "Genocide incidents against European Jews during World War II?",
+        "jawaban": "The Holocaust" 
+    }, 
+    { 
+        "index": 93, 
+        "soal": "The process of converting sugar into ethanol by yeast?", 
+        "jawaban": "Fermentation" 
+    }, 
+    { 
+        "index": 94, 
+        " soal": "Prophecy in Javanese tradition regarding the existence of a just queen?", 
+        "jawaban": "Jayabaya" 
+    }, 
+    { 
+        "index": 95, 
+        "soal": "15th century Polish figure who coined the theory of heliocentrism?" , 
+        "jawaban": "Copernicus" 
+    },
+    { 
+        "index": 96,
+        "soal": "A popular tool for joining two sides of fabric, used in clothes, bags, etc.?", 
+        "jawaban": "Zippers" 
+    }, 
+    { 
+        "index": 97, 
+        "soal": "The unit of difference in electric potential between two points in electrical circuits?", 
+        "jawabans": "Voltage" 
+    }, 
+    { 
+        "index": 98, 
+        "soal": "Social systems that give great power to the nobility?", 
+        "jawabans": "Feudalism" 
+    }, 
+    { 
+        "index": 99, 
+        "soal": "Name of artificial/synthetic sweetener which is composed of two kinds of amino acids?", 
+        "jawaban": "Aspartame" 
+    }, 
+    {
+        "index": 100, 
+        "soal": "The first video game console produced by Sony in the 1990s?", 
+        "jawaban": "PlayStation" 
+    }, 
+    { 
+        "index": 101, 
+        "soal": "Another name for the island of Borneo , used during the reign of the Dutch East Indies?", 
+        "jawaban": "Borneo" 
+    }, 
+    { 
+        "index": 102, 
+        "soal": "A gem or precious stone whose color is in the green range?", 
+        "jawaban": "Zamrud"
+    }, 
+    { 
+        "index" : 103, 
+        "soal": "The name of the museum of Javanese history and culture in Yogyakarta?", 
+        "jawaban": "Sonobudoyo" 
+    }, 
+    {
+        "index": 104, 
+        "soal": "Branch of medical science that studies aspects of the health of the human mind and body?", 
+        "jawaban": "Psychiatry" 
+    }, 
+    { 
+        "index": 105, 
+        "soal": "The first president of the United States of America , also the name of the Capital of the United States of America?", 
+        "jawaban": "Washingthon" 
+    }, 
+    { 
+        "index": 106, 
+        "soal": "The only type of mammal that can fly?", 
+        "jawaban": "Bats" 
+    }, 
+    { 
+        "index": 107, 
+        "soal": "Oceanian archipelago, consisting of more than 1000 islands?", 
+        "jawabans": "Polynesia" 
+    },
+    { 
+        "index": 108, 
+        "soal": "The title of the monarch of the era of the kingdom, the level is equivalent to the emperor?", 
+        "jawaban": "Maharaja" 
+    }, 
+    { 
+        "index": 109, 
+        "soal": "The name of the most adjacent to Singapore?", 
+        "jawaban": "Batam" 
+    }, 
+    { 
+        "index": 110,
+        "soal": "A branch of the armed forces capable of amphibious assault?", 
+        "jawaban": "Marine" 
+    }, 
+    { 
+        "index": 111, 
+        " soal": "The cellular operator company in Indonesia with the most subscribers?", 
+        "jawaban": "Telkomsel" 
+    },
+    {
+        "index": 112, 
+        "soal": "Name of animal with 10 legs and shell?", 
+        "jawaban": "Crab" 
+    }, 
+    { 
+        "index": 113, 
+        "soal": "Miniature object to describe a scene or scene ?", 
+        "jawaban": "Diorama" 
+    }, 
+    { 
+        "index": 114, 
+        "soal": "Traditional house of the Toraja people, the roof is curved like a boat?", 
+        "jawaban": "Tonkonan" 
+    }, 
+    { 
+        "index": 115, 
+        "soal": "The cave that became the headquarters of Prince Diponegoro in 1825?", 
+        "jawaban": "Selarong" 
+    }, 
+    {
+        "index": 116, 
+        "soal": "A name for a female creature who lives in heaven/heaven?", 
+        "jawaban": "Angel" 
+    }, 
+    { 
+        "index": 117, 
+        "soal": "Sword curved with one eye what did the Japanese Samurai use?", 
+        "jawaban": "Katana" 
+    }, 
+    { 
+        "index": 118, 
+        "soal": "Jewelry produced in the soft tissues of molluscs?", 
+        "jawaban": "Pearls" 
+    } , 
+    { 
+        "index": 119, 
+        "soal":"Company name of Finnish game developer Clash of Clans?", 
+        "jawaban": "Supercell" 
+    },
+    { 
+        "index": 120, 
+        "soal": "Traditional Sundanese drink, made from palm sugar and coconut milk?", 
+        "jawaban": "Bajigur" 
+    }, 
+    { 
+        "index": 121, 
+        "soal": "The genre of music that originally developed in Jamaica in the 1960s?", 
+        "jawabans": "Reggae" 
+    }, 
+    { 
+        "index": 122, 
+        "soal": "Traditional dramas from East Java, entertaining and laughable?", 
+        "jawabans": " Ludruk" 
+    }, 
+    { 
+        "index": 123,
+        "soal": "Name of the fictional school dormitory where Harry Potter characters studied magic?", 
+        "jawaban": "Hogwarts"
+    }, 
+    { 
+        "index": 124, 
+        "soal": "A city whose name stems from its history as a shrimp paste maker?", 
+        "jawaban": "Cirebon" 
+    }, 
+    { 
+        "index": 125, 
+        "soal": "Official in the field of law authorized to make authentic deeds?", 
+        "jawaban": "Notary" 
+    }, 
+    { 
+        "index": 126, 
+        "soal": "Types of sugar processed from carbohydrates by the human body?", 
+        "jawaban": " Glucose" 
+    }, 
+    { 
+        "index": 127,
+        "soal": "South-east Asian small curved hand knife?",
+        "jawaban": "Kerambit" 
+    }, 
+    { 
+        "index": 128, 
+        "soal": "An ancient elephant species of the mammoth genus, eating leaves and tree branches?", 
+        "jawaban": "Mastodon" 
+    }, 
+    { 
+        "index": 129, 
+        "soal": "The oath made by Gajah Mada at the ceremony of his appointment as Patih?", 
+        "jawaban": "Palapa" 
+    }, 
+    { 
+        "index": 130, 
+        "soal": "Deposit products at the bank, withdrawals can only be made only at certain times?", 
+        "jawaban": "Deposit" 
+    }, 
+    { 
+        "index": 131,
+        "soal": "Optical and meteorological symptoms of multicolored light appearing in the sky?", 
+        "jawaban": "Rainbow" 
+    }, 
+    { 
+        "index": 132, 
+        "soal": "Military rocket weapon that has an automatic control system for looking for a target?", 
+        "jawaban": "Missile" 
+    }, 
+    { 
+        "index": 133, 
+        "soal": "Organized crime syndicates in Japan that have their own ways and laws?", 
+        "jawaban": "Yakuza" 
+    }, 
+    { 
+        "index": 134, 
+        "soal": "A group of scholars who are also a class of works or colors in Hinduism?", 
+        "jawaban": "Brahmins"
+    }, 
+    { 
+        "index": 135, 
+        "soal": "Dry season in the tropics affected by the monsoon system?", 
+        "jawaban": "drought" 
+    }, 
+    { 
+        "index": 136, 
+        "soal": "Public schools whose curriculum contains Islamic lessons?", 
+        "jawabans": "Madrasah" 
+    }, 
+    { 
+        "index": 137, 
+        "soal": "Plants that can grow without water for a long time, exist in desert areas? ", 
+        "jawaban": "Cactus" 
+    }, 
+    { 
+        "index": 138,
+        "soal": "A five-fingered order of mammals, including lemurs, apes, and humans?", 
+        "jawaban": "Primata" 
+    }, 
+    { 
+        "index": 139, 
+        "soal": "Traditional women's blouse made of thin material, worn with a sarong or batik?", 
+        "jawaban": "Kebaya" 
+    }, 
+    { 
+        "index": 140, 
+        "soal": "Which type of protein is usually found in wheat, which celiac sufferers avoid?", 
+        "jawaban" : "Gluten" 
+    }, 
+    { 
+        "index": 141, 
+        "soal": "A martial sport developed by Africans in Brazil in the 1500s?",
+        "jawaban": "Capoeira" 
+    }, 
+    { 
+        "index": 142, 
+        "soal": "The event of erosion of solids such as rock/soil due to wind, water, or ice transport?", 
+        "jawaban": "Erosion" 
+    }, 
+    { 
+        " index": 143, 
+        "soal": "Fish which is a close relative of tuna, often processed into crackers, dumplings, pempek?", 
+        "jawaban": "Mackerel" 
+    }, 
+    { 
+        "index": 144, 
+        "soal": "A type of traditional Sundanese social dance, especially the Karawang area?",
+        "jawaban": "Jaipongan" 
+    }, 
+    { 
+        "index": 145,
+        "soal": "A number system in which numbers are written using two symbols, 0 and 1?", 
+        "jawaban": "Binary" 
+    }, 
+    { 
+        "index": 146, 
+        "soal": "Spices from the seeds of the ginger family, are third most expensive spice in the world?", 
+        "jawaban": "Caramom" 
+    }, 
+    { 
+        "index": 147,
+        "soal": "The continent that includes the Earth's South Pole has a very low temperature?", 
+        "jawaban": "Antarctica" 
+    }, 
+    {
+        "index": 148, 
+        "soal": "The throwing weapon widely used in the Middle Ages to destroy walls?", 
+        "jawaban": "Trebuchet" 
+    }, 
+    {
+        "index": 149, 
+        "soal": "White flakes which are excessive exfoliation of dead skin on the head?", 
+        "jawaban": "Dandruff" 
+    }, 
+    { 
+        "index": 150, 
+        "soal": "Science studying language in ancient manuscripts?", 
+        "jawabans": "Philology" 
+    }, 
+    { 
+        "index": 151, 
+        "soal": "Milk produced only in the late stages of pregnancy a few days after delivery?", 
+        "jawabans": " Colostrum" 
+    }, 
+    { 
+        "index": 152,
+        "soal": "A plant native to Japan tastes sharp/spicy that is eaten as a flavoring in Japanese cuisine?",
+        "jawaban": "Wasabi" 
+    }, 
+    { 
+        "index": 153, 
+        "soal": "Sport using a bat, the field is square?", 
+        "jawaban": "Baseball" 
+    }, 
+    { 
+        "index": 154, 
+        "soal": "Typical seasoning for Batak Toba cuisine which is also known as Batak pepper?", 
+        "jawaban": "Andaliman" 
+    }, 
+    { 
+        "index": 155, 
+        "soal": "The system of government adopted by England, Japan , Netherlands, Malaysia, Singapore?", 
+        "jawaban": "Parelementary" 
+    }, 
+    { 
+        "index": 156,
+        "soal": "Traditional Korean food in the form of pickled fermented vegetables with spicy seasoning?", 
+        "jawaban": "Kimchi" 
+    }, 
+    { 
+        "index": 157, 
+        "soal": "A term for something that has social or environmental purposes, not aimed at material gain?", 
+        "jawaban": "Non-profit" 
+    }, 
+    { 
+        "index": 158, 
+        "soal": "The movement that fights for equality for women in politics, economy, culture, etc.?", 
+        "jawaban": " Feminism" 
+    }, 
+    { 
+        "index": 159,
+        "soal": "A fermented drink of tea and sugar originating from East Asia?",
+        "jawabans": "Kombucha" 
+    }, 
+    { 
+        "index": 160, 
+        "soal": "The Russian hardliners of 1903 who think change must be won with guns?", 
+        "jawabans": "Bolshevic" 
+    }, 
+    { 
+        "index ": 161, 
+        "soal": "Name of the volcanic island in the middle of Lake Toba, North Sumatra?", 
+        "jawaban": "Samosir" 
+    }, 
+    { 
+        "index": 162, 
+        "soal": "Soldiers in Ancient Greece, function as spearmen in the phalanx formation?", 
+        "jawaban": "Hoplites" 
+    }, 
+    { 
+        "index": 163,
+        "soal": "Name of a week consisting of 5 days in Javanese and Balinese culture?", 
+        "jawaban": "Pancawara" 
+    }, 
+    { 
+        "index": 164, 
+        "soal": "How to serve food in the Dutch colonial period with a variety of Indonesian dishes?", 
+        "jawaban": "Rijsttafel"
+    },
+    { 
+        "index": 165, 
+        "soal": "The term for cultivation using water without using soil?", 
+        "jawaban": "Hydroponics" 
+    }, 
+    { 
+        "index": 166, 
+        "soal ": "The most abundant type of metal on Earth,is the best conductor of electricity?", 
+        "jawaban": "Aluminum" 
+    }, 
+    {
+        "index": 167, 
+        "soal": "An economic organization based on the people's economy and the principle of kinship?", 
+        "jawaban": "Cooperative" 
+    }, 
+    { 
+        "index": 168, 
+        "soal": "Hindu holiday, celebrated every 210 days using the Balinese calendar?", 
+        "jawaban": "Galungan" 
+    }, 
+    { 
+        "index": 169, 
+        "soal": "Science that studies the shape of the earth's surface and the surface of planets, natural satellites, asteroids?", 
+        "jawabans ": "Topography" 
+    }, 
+    { 
+        "index": 170,
+        "soal": "Offerings to gods or ancestral spirits by adherents of ancient beliefs in Indonesia?", 
+        "jawaban": "offerings" 
+    }, 
+    { 
+        "index": 171, 
+        "soal": "The title of the Korean folk song, as well as the Korean symbol, known in both North and South Korea?", 
+        "jawaban": "Arirang" 
+    }, 
+    { 
+        "index": 172, 
+        "soal": "The term form of a nomadic nation that chose to move around to survive?", 
+        "jawaban" : "Nomadic" 
+    }, 
+    { 
+        "index": 173,
+        "soal": "A rare type of pine mushroom that is an expensive luxury food ingredient in Japan?",
+        "jawaban": "Matsutake" 
+    }, 
+    { 
+        "index": 174, 
+        "soal": "A community custom that regulates maternal lineage?", 
+        "jawaban": "Matrilineal" 
+    }, 
+    { 
+        "index": 175 , 
+        "soal": "A meadow filled with shrubs and several types of trees that grow spread out?", 
+        "jawaban": "Savanna" 
+    }, 
+    { 
+        "index": 176, 
+        "soal": "Italian explorer who discovered the Americas in year 1492?", 
+        "jawaban": "Capoerira"
+    }, 
+    { 
+        "index": 177,
+        "soal": "Score or scale used to assess the health condition of newborns?", 
+        "jawaban": "Apgar" 
+    }, 
+    { 
+        "index": 178, 
+        "soal": "One of the islands in North Sulawesi that has highest marine biodiversity in the world?", 
+        "jawabans": "Bunaken" 
+    }, 
+    { 
+        "index": 179, 
+        "soal": "Experts in the application of financial science and statistical theory to actual business problems?", 
+        "jawabans": "Actuaries" 
+    }, 
+    { 
+        "index": 180, 
+        "soal": "Tradition of a bride and groom asking for blessings from the parents of both parties?", 
+        "jawaban": "Sungkem"
+    }, 
+    { 
+        "index": 181, 
+        "soal": "What kind of white sauce made of vegetable oil, chicken eggs, and vinegar?", 
+        "jawaban": "Mayonnaise" 
+    }, 
+    { 
+        "index": 182, 
+        "soal ": "Terms that mean not voting or taking a stance in a vote?", 
+        "jawaban": "Abstain" 
+    }, 
+    { 
+        "index": 183, 
+        "soal": "One of Indonesia's national flowers has the nickname as puspa nation? ", 
+        "jawaban": "Jasmine" 
+    },
+    { 
+        "index": 184,
+        "soal": "A string instrument played by plucking, from Rote, NTT?", 
+        "jawaban": "Sasando" 
+    }, 
+    { 
+        "index": 185, 
+        "soal": "A rock hanging and dripping water from limestone cave ceiling?", 
+        "jawabans": "Stalactites" 
+    }, 
+    { 
+        "index": 186, 
+        "soal": "Singapore's national icon is a statue of a lion's head and a fish body?", 
+        "jawaban": "Merlion" 
+    } , 
+    { 
+        "index": 187, 
+        "soal": "The term in chess when the king's position cannot be separated from the opponent's movement?", 
+        "jawaban": "Checkmate" 
+    },
+    { 
+        "index": 188, 
+        "soal": "Instrument for measuring air pressure, used in weather forecasting?", 
+        "jawaban": "Barometer" 
+    }, 
+    { 
+        "index": 189, 
+        "soal": "32nd President of America the only one who was selected 4 times?", 
+        "jawaban": "Roosevelt" 
+    }, 
+    { 
+        "index": 190, 
+        "soal": "Types of traditional Javanese architectural houses built from four main pillars?", 
+        "jawabans": " Limasan" 
+    }, 
+    { 
+        "index": 191,
+        "soal": "Japanese term for image characters used in electronic messages?",
+        "jawaban": "Emoji" 
+    }, 
+    { 
+        "index": 192, 
+        "soal": "One of the typical Indonesian daggers that often have a twisting blade?", 
+        "jawaban": "Keris" 
+    }, 
+    { 
+        "index": 193, 
+        "soal": "Aboriginal inhabitants of the Australian continent with dark skin and curly hair?", 
+        "jawaban": "Aboriginal" 
+    }, 
+    { 
+        "index": 194, 
+        "soal": "A typical dance of the gayo tribe from aceh, shown to celebrate an important event?", 
+        "jawaban": "Saman dance" 
+    }, 
+    { 
+        "index": 195,
+        "soal": "A young insect or amphibian that develops through metamorphosis?", 
+        "jawaban": "Larva" 
+    }, 
+    { 
+        "index": 196, 
+        "soal": "Where is the ship moored at the port for loading and unloading of goods?" , 
+        "jawaban": "Wharf" 
+    }, 
+    { 
+        "index": 197, 
+        "soal": "What type of watch is powered by an electric or battery powered engine?", 
+        "jawaban": "Quartz" 
+    }, 
+    { 
+        "index": 198, 
+        "soal": "Hindu tribes living around the mountains of Bromo and Semeru?", 
+        "jawaban": "Tengger" 
+    }, 
+    {
+        "index": 199, 
+        "soal": "A toy that can rotate on an axis and is in equilibrium at a point?", 
+        "jawaban": "top" 
+    }, 
+    { 
+        "index": 200, 
+        "soal": "A legume plant that is the world's main source of vegetable protein?", 
+        "jawaban": "Soy" 
+    }, 
+    { 
+        "index": 201, 
+        "soal": "A colorless, odorless liquid, used as a chemical weapon of mass destruction?", 
+        "jawaban": "Sarin" 
+    }, 
+    { 
+        "index": 202,
+        "soal": "The branch of dentistry that specializes in the science of straightening teeth?", 
+        "jawaban": "Orthodontics"
+    }, 
+    { 
+        "index": 203, 
+        "soal": "A term of Italian origin, meaning a female ballet dancer?", 
+        "jawaban": "Ballerina" 
+    }, 
+    { 
+        "index": 204, 
+        "soal": "Rice rice fields in Bali that is recognized by UNESCO as a World Cultural Heritage?", 
+        "jawaban": "Jatiluwih" 
+    }, 
+    { 
+        "index": 205, 
+        "soal": "A staple food substitute for rice made from cassava or cassava?", 
+        "jawaban" : "Tiwul" 
+    }, 
+    { 
+        "index":206, 
+        "soal": "The part of the eye that converts light into nerve signals?",
+        "jawaban": "Retina" 
+    }, 
+    { 
+        "index": 207, 
+        "soal": "The name of the encoding machine used by nazi Germany in World War II?", 
+        "jawaban": "Enigma" 
+    }, 
+    { 
+        "index": 208 , 
+        "soal": "Cosmetics made of wax, pigment, oil, applied to the lips?", 
+        "jawaban": "Lipstick" 
+    }, 
+    { 
+        "index": 209, 
+        "soal": "Food seasoning made from fermented soybeans , flour, and salt?", 
+        "jawaban": "Tauco" 
+    },
+    { 
+        "index": 210,
+        "soal": "Microorganisms that can reduce the productivity of the animals they feed on?", 
+        "jawabans": "Parasites" 
+    }, 
+    { 
+        "index": 211, 
+        "soal": "A sweet liquid produced by flowers to attract pollinators?" , 
+        "jawaban": "Nectar" 
+    }, 
+    { 
+        "index": 212, 
+        "soal": "The process of creating new land from the seabed or riverbed?", 
+        "jawaban": "Reclamation" 
+    }, 
+    { 
+        "index": 213 , 
+        "soal": "The term for the state of intention before performing Hajj or Umrah?", 
+        "jawaban": "Ihram" 
+    }, 
+    {
+        "index": 214, 
+        "soal": "A typical Banjar tribal stringed instrument, played by plucking?", 
+        "jawaban": "Panting" 
+    }, 
+    { 
+        "index": 215, 
+        "soal": "A deadly viral disease that epidemic in West Africa in 2014?", 
+        "jawabans": "Ebola" 
+    }, 
+    { 
+        "index": 216, 
+        "soal": "What types of ferrets are known to eat whole coffee beans?", 
+        "jawabans": "Civets" 
+    }, 
+    { 
+        "index": 217, 
+        "soal": "The name of the sword that King Arthur had according to British mythology?", 
+        "jawaban": "Excalibur" 
+    }, 
+    {
+        "index": 218, 
+        "soal": "A country that has a red and white flag like Indonesia?", 
+        "jawaban": "Monaco" 
+    }, 
+    { 
+        "index": 219, 
+        "soal": "A theater performance using signs gestures without sound?", 
+        "jawaban": "Pantomime" 
+    }, 
+    { 
+        "index": 220, 
+        "soal": "The wedding tradition of the bride and groom is not allowed to leave the house?", 
+        "jawaban": "Seclusion" 
+    }, 
+    { 
+        "index": 221, 
+        "soal": "Types of animals that are active at night and sleep during the day?", 
+        "jawaban": "Nocturnal"
+    }, 
+    { 
+        "index": 222, 
+        "soal": "Congenital disorder of the absence of melanin pigment in the eyes, skin, hair?", 
+        "jawaban": "Albinism" 
+    }, 
+    { 
+        "index": 223, 
+        "soal": " The branch of linguistics that studies the origin of words?", 
+        "jawabans": "Etymology" 
+    }, 
+    { 
+        "index": 224, 
+        "soal": "Types of fish that can jump ashore, found on the island of Borneo?", 
+        "jawabans": "Shoot" 
+    }, 
+    { 
+        "index": 225,
+        "soal": "Electronic currency with blockchain technology created in 2009?",
+        "jawaban": "Bitcoin" 
+    }, 
+    { 
+        "index": 226, 
+        "soal": "The biggest cigarette entrepreneur in 1918 owned a kretek factory tjap bales?", 
+        "jawaban": "Nitisemito" 
+    }, 
+    { 
+        "index": 227 , 
+        "soal": "This expressionist painter is known as the maestro of Indonesian painting?", 
+        "jawaban": "Affandi" 
+    } 
+]
